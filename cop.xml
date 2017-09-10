@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<COPS>
+  <cop ID="100000">
+    <Name>лртидыя</Name>
+    <Surname>цувйцв</Surname>
+    <Age>2345</Age>
+    <Passsword>123456789</Passsword>
+    <Active>false</Active>
+  </cop>
+  <cop ID="100001">
+    <Name>масвы</Name>
+    <Surname>маусв</Surname>
+    <Age>321</Age>
+    <Passsword>123456789</Passsword>
+    <Active>false</Active>
+  </cop>
+</COPS>

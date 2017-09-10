@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <student ID="100000">
+    <Name>йецнугш</Name>
+    <Surname>фыраод</Surname>
+    <Age>34</Age>
+    <Passsword>123456789</Passsword>
+    <CVpath />
+    <Active>false</Active>
+    <Criteria1>
+    </Criteria1>
+    <Criteria1>
+    </Criteria1>
+    <Criteria1>
+    </Criteria1>
+    <Inbox InboxEmails="2">
+      <Email Inboxfrom="COP">lsnv;adfkjvcndslkjan</Email>
+      <Email Inboxfrom="COP">ppppppp</Email>
+    </Inbox>
+  </student>
+  <student ID="100001">
+    <Name>щшгн</Name>
+    <Surname>лофырв</Surname>
+    <Age>56</Age>
+    <Passsword>123456789</Passsword>
+    <CVpath>
+    </CVpath>
+    <Active>false</Active>
+    <Criteria1>
+    </Criteria1>
+    <Criteria1>
+    </Criteria1>
+    <Criteria1>
+    </Criteria1>
+    <Inbox InboxEmails="0" />
+  </student>
+  <student ID="100002">
+    <Name>папапа</Name>
+    <Surname>ававыв</Surname>
+    <Age>87</Age>
+    <Passsword>123456789</Passsword>
+    <CVpath>
+    </CVpath>
+    <Active>false</Active>
+    <Criteria1>
+    </Criteria1>
+    <Criteria1>
+    </Criteria1>
+    <Criteria1>
+    </Criteria1>
+    <Inbox InboxEmails="0" />
+  </student>
+  <student ID="100003">
+    <Name>pojhg</Name>
+    <Surname>gggggg</Surname>
+    <Age>123</Age>
+    <Passsword>123456789</Passsword>
+    <CVpath>543</CVpath>
+    <Active>false</Active>
+    <Criteria1>hgfd</Criteria1>
+    <Criteria1>hgfds</Criteria1>
+    <Criteria1>gtrew</Criteria1>
+    <Inbox InboxEmails="0" />
+  </student>
+  <student ID="100004">
+    <Name>fvcds</Name>
+    <Surname>kujhgf</Surname>
+    <Age>87654</Age>
+    <Passsword>123456789</Passsword>
+    <CVpath>jnhb</CVpath>
+    <Active>false</Active>
+    <Criteria1>njhgbfv</Criteria1>
+    <Criteria2>hbgfv</Criteria2>
+    <Criteria3>bgfv</Criteria3>
+  </student>
+</Students>

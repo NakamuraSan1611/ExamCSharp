@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Companies>
+  <company ID="100000">
+    <Name>name</Name>
+    <Passsword>1111111qwerty</Passsword>
+    <Active>true</Active>
+    <Criteria1>string</Criteria1>
+    <Criteria2>1234</Criteria2>
+    <Criteria3>True</Criteria3>
+  </company>
+  <company ID="100001">
+    <Name>новое имя</Name>
+    <Passsword>4567</Passsword>
+    <Active>true</Active>
+    <Criteria1>новый критерий1</Criteria1>
+    <Criteria2>5678</Criteria2>
+    <Criteria3>true</Criteria3>
+  </company>
+</Companies>
